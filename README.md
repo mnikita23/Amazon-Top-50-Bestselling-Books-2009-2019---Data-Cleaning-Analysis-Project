@@ -18,7 +18,7 @@ In this project, we:
 - Python 3
 - pandas
 - NumPy
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ## 📈 Key Findings
 
