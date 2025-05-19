@@ -36,7 +36,7 @@ In this project, we:
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/amazon-bestsellers-analysis.git
    cd amazon-bestsellers-analysis
